@@ -1,5 +1,5 @@
 import { BrowserRouter } from "react-router-dom";
-import "./App.css";
+
 import Form from "./app/components/Form/Form.tsx";
 import GetName from "./app/components/GetName/GetName.tsx";
 import styled from "styled-components";
